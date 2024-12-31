@@ -1,0 +1,7 @@
+venv
+venv
+*.zip
+*.csv
+*.parquet
+kaggle_evaluation
+.ipynb_checkpoints/
